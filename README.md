@@ -17,3 +17,21 @@ for fun and curiousity</p>
   <li>Rick Roll people on this honeypot</li>
   <li>View traffic on wireshark</li>
 </ol>
+
+
+Day 1:
+
+  For today I learned how to setup a simple web server using golang. Now the goal is to learn 
+  more about golang net/http library to be able to build more on top of a basic web server for GoHoney.
+  The next thing would be to learn how to gather intel on devices that connect to the wifi pineapple or
+  output basic information on my terminal. Their is another curious idea in my mind which is to to 
+  some how redirect users into a simple login which will make them login to either a google email,
+  yahoo email etc..One more thing I was working on was learning more about the wifi pineapple. 
+
+  The question in the air is what type of honey pot do I want to make?
+  
+
+  Reads of today:
+  https://www.fortinet.com/resources/cyberglossary/what-is-honeypot
+  https://www.imperva.com/learn/application-security/honeypot-honeynet/
+  
